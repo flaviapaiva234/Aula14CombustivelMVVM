@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Aula14_2CombustivelMVVM</string>
+    <string name="app_name">Aula14CombustivelMVVM</string>
     <string name="gastosViajem">Calcule os gastos da sua Viajem</string>
 </resources>
